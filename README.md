@@ -4,6 +4,9 @@ original code from https://github.com/PonDad/manatee
 
 ## デプロイしたもの
 
+2020/11月時点では動かず。。。
+Expressサーバを動かして推定を実行する方法を模索中。。。
+https://wonderful-tereshkova-e5866e.netlify.app/
 
 
 ## Microsoftの機械学習アプリLobe(beta版)でリンゴとみかんを分類するWEBアプリ作成を試してみる 目次
