@@ -4,8 +4,6 @@ original code from https://github.com/PonDad/manatee
 
 ## デプロイしたもの
 
-2020/11月時点では動かず。。。
-Expressサーバを動かして推定を実行する方法を模索中。。。
 https://wonderful-tereshkova-e5866e.netlify.app/
 
 
@@ -22,6 +20,8 @@ https://wonderful-tereshkova-e5866e.netlify.app/
 [（５）FlaskアプリをHerokuにデプロイ](https://i-doctor.sakura.ne.jp/font/?p=44947)
 
 [（６）Windows10にTensorFlow.jsの環境構築とDEMOアプリのNetlifyへのデプロイ](https://i-doctor.sakura.ne.jp/font/?p=45117)
+
+[（７）ExpressアプリをHerokuまたはNetlifyにデプロイ](https://i-doctor.sakura.ne.jp/font/?p=45277)
 
 ## 実行方法
 
@@ -57,6 +57,3 @@ autopep8
 flake8
 mypy
 ```
-
-
-original code from https://github.com/PonDad/manatee
